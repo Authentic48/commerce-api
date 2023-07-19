@@ -22,8 +22,10 @@
     "inversify": "^6.0.1",
     "inversify-express-utils": "^6.4.3",
     "nodemon": "^3.0.1",
+    "pg": "^8.11.1",
     "reflect-metadata": "^0.1.13",
     "ts-node": "^10.9.1",
+    "typeorm": "^0.3.17",
     "typescript": "^5.1.6"
   },
   "devDependencies": {
